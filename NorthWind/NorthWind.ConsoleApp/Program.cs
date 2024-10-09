@@ -1,13 +1,14 @@
-﻿using NorthWind.ConsoleApp.Services;
-using NorthWind.Entities.Interfaces;
-using NorthWind.Writers;
+﻿HostApplicationBuilder Builder = Host.CreateApplicationBuilder();
 
-IUserActionWriter Writer = new FileWriter();
+Builder.Services.AddNorthWindServices();
 
-AppLogger Logger = new AppLogger(Writer);
+
+using IHost AppHost = Builder.Build();
+
+IAppLogger Logger = AppHost.Services.GetRequiredService<IAppLogger>();
 Logger.WriteLog("Application started.");
 
-ProductService Service = new ProductService(Writer);
+IProductService Service = AppHost.Services.GetRequiredService<IProductService>();
 Service.Add("Demo", "Azucar refinada");
 
 

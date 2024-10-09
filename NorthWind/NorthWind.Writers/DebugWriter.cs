@@ -1,10 +1,6 @@
-﻿using NorthWind.Entities.Interfaces;
-using NorthWind.Entities.ValueObjects;
-using System.Diagnostics;
-
-namespace NorthWind.Writers
+﻿namespace NorthWind.Writers
 {
-    public class DebugWriter : IUserActionWriter
+    internal class DebugWriter : IUserActionWriter
     {
         public void Write(UserAction action)
         {

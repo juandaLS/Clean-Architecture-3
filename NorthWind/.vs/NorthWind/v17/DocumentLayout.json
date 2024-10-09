@@ -7,32 +7,40 @@
       "RelativeMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|c:\\trabajos clean architecture\\northwind\\northwind.consoleapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{205A8FC8-3A33-4A0E-91E3-124E7D880C71}|NorthWind.IoC\\NorthWind.IoC.csproj|c:\\trabajos clean architecture\\northwind\\northwind.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{205A8FC8-3A33-4A0E-91E3-124E7D880C71}|NorthWind.IoC\\NorthWind.IoC.csproj|solutionrelative:northwind.ioc\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|c:\\trabajos clean architecture\\northwind\\northwind.consoleapp\\services\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\services\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C8B10C9-01DC-4F6B-9EF9-EB4CD50E9CA4}|NorthWind.Core\\NorthWind.Core.csproj|c:\\trabajos clean architecture\\northwind\\northwind.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8B10C9-01DC-4F6B-9EF9-EB4CD50E9CA4}|NorthWind.Core\\NorthWind.Core.csproj|solutionrelative:northwind.core\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\trabajos clean architecture\\northwind\\northwind.writers\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\filewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C8B10C9-01DC-4F6B-9EF9-EB4CD50E9CA4}|NorthWind.Core\\NorthWind.Core.csproj|c:\\trabajos clean architecture\\northwind\\northwind.core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8B10C9-01DC-4F6B-9EF9-EB4CD50E9CA4}|NorthWind.Core\\NorthWind.Core.csproj|solutionrelative:northwind.core\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\trabajos clean architecture\\northwind\\northwind.writers\\debugwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\debugwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C8B10C9-01DC-4F6B-9EF9-EB4CD50E9CA4}|NorthWind.Core\\NorthWind.Core.csproj|c:\\trabajos clean architecture\\northwind\\northwind.core\\services\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C8B10C9-01DC-4F6B-9EF9-EB4CD50E9CA4}|NorthWind.Core\\NorthWind.Core.csproj|solutionrelative:northwind.core\\services\\applogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\trabajos clean architecture\\northwind\\northwind.writers\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\consolewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|c:\\trabajos clean architecture\\northwind\\northwind.consoleapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4210A87F-8D27-4A5E-921E-07514BCB0A99}|NorthWind.ConsoleApp\\NorthWind.ConsoleApp.csproj|solutionrelative:northwind.consoleapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\trabajos clean architecture\\northwind\\northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\valueobjects\\useraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\trabajos clean architecture\\northwind\\northwind.entities\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\trabajos clean architecture\\northwind\\northwind.entities\\interfaces\\iuseractionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\interfaces\\iuseractionwriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|c:\\trabajos clean architecture\\northwind\\northwind.entities\\interfaces\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB1C1C7-C0BF-413F-885F-58452EB17335}|NorthWind.Entities\\NorthWind.Entities.csproj|solutionrelative:northwind.entities\\interfaces\\iapplogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|c:\\trabajos clean architecture\\northwind\\northwind.writers\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89F4D402-14B2-412E-A888-C0B822DE318F}|NorthWind.Writers\\NorthWind.Writers.csproj|solutionrelative:northwind.writers\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{205A8FC8-3A33-4A0E-91E3-124E7D880C71}|NorthWind.IoC\\NorthWind.IoC.csproj|c:\\trabajos clean architecture\\northwind\\northwind.ioc\\northwind.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{205A8FC8-3A33-4A0E-91E3-124E7D880C71}|NorthWind.IoC\\NorthWind.IoC.csproj|solutionrelative:northwind.ioc\\northwind.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +50,38 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Core\\DependencyContainer.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Core\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T21:05:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.IoC\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.IoC\\DependencyContainer.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.IoC\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.IoC\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T20:42:33.109Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,105 +90,101 @@
               "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Program.cs",
               "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\Program.cs",
               "RelativeToolTip": "NorthWind.ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:43:08.549Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Services\\ProductService.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\Services\\ProductService.cs",
-              "RelativeToolTip": "NorthWind.ConsoleApp\\Services\\ProductService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:42:55.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AppLogger.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\Services\\AppLogger.cs",
-              "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\Services\\AppLogger.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\Services\\AppLogger.cs",
-              "RelativeToolTip": "NorthWind.ConsoleApp\\Services\\AppLogger.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:42:39.189Z",
+              "WhenOpened": "2024-10-09T19:38:16.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FileWriter.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\FileWriter.cs",
-              "RelativeDocumentMoniker": "NorthWind.Writers\\FileWriter.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\FileWriter.cs",
-              "RelativeToolTip": "NorthWind.Writers\\FileWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Core\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\Services\\ProductService.cs",
+              "RelativeToolTip": "NorthWind.Core\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:42:19.577Z",
+              "WhenOpened": "2024-10-09T21:01:32.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DebugWriter.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\DebugWriter.cs",
-              "RelativeDocumentMoniker": "NorthWind.Writers\\DebugWriter.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\DebugWriter.cs",
-              "RelativeToolTip": "NorthWind.Writers\\DebugWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "AppLogger.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\Services\\AppLogger.cs",
+              "RelativeDocumentMoniker": "NorthWind.Core\\Services\\AppLogger.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\Services\\AppLogger.cs",
+              "RelativeToolTip": "NorthWind.Core\\Services\\AppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:42:08.364Z",
+              "WhenOpened": "2024-10-09T20:58:40.813Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "ConsoleWriter.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\ConsoleWriter.cs",
-              "RelativeDocumentMoniker": "NorthWind.Writers\\ConsoleWriter.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\ConsoleWriter.cs",
-              "RelativeToolTip": "NorthWind.Writers\\ConsoleWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "NorthWind.ConsoleApp\\GlobalUsings.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.ConsoleApp\\GlobalUsings.cs",
+              "RelativeToolTip": "NorthWind.ConsoleApp\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:41:44.692Z",
+              "WhenOpened": "2024-10-09T21:08:08.882Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "UserAction.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "RelativeToolTip": "NorthWind.Entities\\ValueObjects\\UserAction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "NorthWind.Entities\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:41:35.042Z",
+              "WhenOpened": "2024-10-09T21:01:21.662Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IUserActionWriter.cs",
-              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "RelativeDocumentMoniker": "NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IUserActionWriter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Title": "IAppLogger.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\Interfaces\\IAppLogger.cs",
+              "RelativeDocumentMoniker": "NorthWind.Entities\\Interfaces\\IAppLogger.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Entities\\Interfaces\\IAppLogger.cs",
+              "RelativeToolTip": "NorthWind.Entities\\Interfaces\\IAppLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-09T18:36:45.002Z",
+              "WhenOpened": "2024-10-09T20:58:16.664Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NorthWind.IoC",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.IoC\\NorthWind.IoC.csproj",
+              "RelativeDocumentMoniker": "NorthWind.IoC\\NorthWind.IoC.csproj",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.IoC\\NorthWind.IoC.csproj",
+              "RelativeToolTip": "NorthWind.IoC\\NorthWind.IoC.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-09T20:44:55.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "NorthWind.Writers\\DependencyContainer.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Writers\\DependencyContainer.cs",
+              "RelativeToolTip": "NorthWind.Writers\\DependencyContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T19:33:39.338Z",
+              "EditorCaption": ""
             }
           ]
         }

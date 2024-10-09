@@ -1,6 +1,4 @@
-﻿using NorthWind.Entities.ValueObjects;
-
-namespace NorthWind.Entities.Interfaces
+﻿namespace NorthWind.Entities.Interfaces
 {
     public interface IUserActionWriter
     {

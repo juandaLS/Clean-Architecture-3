@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "74pk9Ci/KD4=",
+  "success": true,
+  "projectFilePath": "C:\\Trabajos Clean Architecture\\NorthWind\\NorthWind.Core\\NorthWind.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jualonsa\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
