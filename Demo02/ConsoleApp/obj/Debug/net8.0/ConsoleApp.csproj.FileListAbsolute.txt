@@ -1,0 +1,18 @@
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.AssemblyInfo.cs
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\ConsoleApp.exe
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\ConsoleApp.deps.json
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\ConsoleApp.runtimeconfig.json
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\ConsoleApp.dll
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\ConsoleApp.pdb
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\My library.dll
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\bin\Debug\net8.0\My library.pdb
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.AssemblyReference.cache
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.csproj.Up2Date
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.dll
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\refint\ConsoleApp.dll
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.pdb
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ConsoleApp.genruntimeconfig.cache
+C:\Trabajos Clean Architecture\Demo02\ConsoleApp\obj\Debug\net8.0\ref\ConsoleApp.dll

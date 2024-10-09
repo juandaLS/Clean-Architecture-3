@@ -1,0 +1,11 @@
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\My library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\My library.AssemblyInfoInputs.cache
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\My library.AssemblyInfo.cs
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\My library.csproj.CoreCompileInputs.cache
+C:\Trabajos Clean Architecture\Demo02\My library\bin\Debug\net8.0\My library.deps.json
+C:\Trabajos Clean Architecture\Demo02\My library\bin\Debug\net8.0\My library.dll
+C:\Trabajos Clean Architecture\Demo02\My library\bin\Debug\net8.0\My library.pdb
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\My library.dll
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\refint\My library.dll
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\My library.pdb
+C:\Trabajos Clean Architecture\Demo02\My library\obj\Debug\net8.0\ref\My library.dll
