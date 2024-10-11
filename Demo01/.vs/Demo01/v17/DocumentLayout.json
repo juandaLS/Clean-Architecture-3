@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Trabajos Clean Architecture\\Demo01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5262B70A-F243-4B63-875B-C57CDA9E47F5}|MyLibrary\\MyLibrary.csproj|c:\\trabajos clean architecture\\demo01\\mylibrary\\figglewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5262B70A-F243-4B63-875B-C57CDA9E47F5}|MyLibrary\\MyLibrary.csproj|solutionrelative:mylibrary\\figglewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B002605-9C21-4D0A-AFB4-47BFAE206A1C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\trabajos clean architecture\\demo01\\myconsoleapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B002605-9C21-4D0A-AFB4-47BFAE206A1C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B002605-9C21-4D0A-AFB4-47BFAE206A1C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\trabajos clean architecture\\demo01\\myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B002605-9C21-4D0A-AFB4-47BFAE206A1C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B002605-9C21-4D0A-AFB4-47BFAE206A1C}|MyConsoleApp\\MyConsoleApp.csproj|c:\\trabajos clean architecture\\demo01\\myconsoleapp\\myconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4B002605-9C21-4D0A-AFB4-47BFAE206A1C}|MyConsoleApp\\MyConsoleApp.csproj|solutionrelative:myconsoleapp\\myconsoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GlobalUsings.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\GlobalUsings.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\GlobalUsings.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\GlobalUsings.cs",
+              "RelativeToolTip": "MyConsoleApp\\GlobalUsings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:22:09.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FiggleWriter.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\Demo01\\MyLibrary\\FiggleWriter.cs",
+              "RelativeDocumentMoniker": "MyLibrary\\FiggleWriter.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\Demo01\\MyLibrary\\FiggleWriter.cs",
+              "RelativeToolTip": "MyLibrary\\FiggleWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:19:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyConsoleApp",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\MyConsoleApp.csproj",
+              "RelativeDocumentMoniker": "MyConsoleApp\\MyConsoleApp.csproj",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\MyConsoleApp.csproj",
+              "RelativeToolTip": "MyConsoleApp\\MyConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-11T14:10:49.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "MyConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\Program.cs",
+              "RelativeToolTip": "MyConsoleApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T14:10:06.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

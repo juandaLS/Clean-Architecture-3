@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/kidWAxRLo=",
+  "success": true,
+  "projectFilePath": "C:\\Trabajos Clean Architecture\\Demo01\\MyConsoleApp\\MyConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jualonsa\\.nuget\\packages\\figgle\\0.5.1\\figgle.0.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
